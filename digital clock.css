@@ -1,0 +1,21 @@
+.whole {
+    font-size: 90px;
+    /* border: 2px solid; */
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    display: flex;
+    background: linear-gradient(45deg,#000428 ,#004e92 );
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+
+p {
+    font-size: 60px;
+}
